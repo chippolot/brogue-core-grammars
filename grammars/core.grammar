@@ -1,5 +1,3 @@
-#_extends: "base.grammar"
-
 _includes: [
 	'adjectives.grammar',
 	'animals.grammar',
@@ -14,5 +12,3 @@ _includes: [
 	'professions.grammar',
 	'verbs.grammar',
 ]
-
-#_variables: { 'name': 'value' }
