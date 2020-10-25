@@ -1,0 +1,12 @@
+natural_material: [
+    "adobe",
+    "bamboo",
+    "cordwood",
+    "earth-sheltered",
+    "papercrete",
+    "rammed earth",
+    "rock",
+    "sawdust",
+    "straw",
+    "thatch"
+]

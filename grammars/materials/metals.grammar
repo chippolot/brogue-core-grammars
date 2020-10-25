@@ -1,0 +1,20 @@
+metal: [
+    "aluminium",
+    "chromium",
+    "copper",
+    "gold",
+    "iron",
+    "lead",
+    "nickel",
+    "platinum",
+    "silver",
+    "tin",
+    "titanium",
+    "zinc",
+    "steel",
+    "brass",
+    "electrum",
+    "bronze",
+    "sterling",
+    "pewter"
+]
