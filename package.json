@@ -1,0 +1,15 @@
+{
+    "name": "lilt-core-grammars",
+    "version": "0.0.1",
+    "description": "Core grammar files for use with Lilt.",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/chippolot/lilt-core-grammars.git"
+    },
+    "author": "Ben Smith",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/chippolot/lilt-core-grammars/issues"
+    },
+    "homepage": "https://github.com/chippolot/lilt-core-grammars#readme"
+}
