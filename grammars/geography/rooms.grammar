@@ -1,4 +1,5 @@
-room: [
+{
+  "room": [
     "aerary",
     "aircraft cabin",
     "airport lounge",
@@ -107,4 +108,5 @@ room: [
     "wine cellar",
     "wiring closet",
     "workshop"
-]
+  ]
+}

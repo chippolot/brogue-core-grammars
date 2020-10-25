@@ -1,4 +1,5 @@
-encoragingword: [
+{
+  "encoragingword": [
     "amazing",
     "awesome",
     "beautiful",
@@ -47,4 +48,5 @@ encoragingword: [
     "thrilling",
     "wonderful",
     "wondrous"
-]
+  ]
+}

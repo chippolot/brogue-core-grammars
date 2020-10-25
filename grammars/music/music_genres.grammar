@@ -1,4 +1,5 @@
-music_genre: [
+{
+  "music_genre": [
     "2-step",
     "4-beat",
     "Acid breaks",
@@ -368,4 +369,5 @@ music_genre: [
     "Worldbeat",
     "Yacht rock",
     "Yorkshire Bleeps and Bass"
-]
+  ]
+}

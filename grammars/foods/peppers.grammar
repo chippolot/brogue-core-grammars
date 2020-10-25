@@ -1,4 +1,5 @@
-pepper: [
+{
+  "pepper": [
     "Aleppo",
     "Anaheim",
     "Ancho",
@@ -28,9 +29,9 @@ pepper: [
     "Poblano",
     "Santa Fe Grande",
     "Serrano",
-    "Shishito"
+    "Shishito",
     "Piquín",
-    "Wild chiltepin"
+    "Wild chiltepin",
     "Adjuma",
     "Ají dulce",
     "Carolina Reaper",
@@ -43,14 +44,15 @@ pepper: [
     "Red Savina habanero",
     "Scotch bonnet",
     "Trinidad moruga scorpion",
-    "Trinidad scorpion"
+    "Trinidad scorpion",
     "African bird's eye",
     "Siling labuyo",
     "Malagueta",
-    "Tabasco"
+    "Tabasco",
     "Ají",
     "Bishop's crown",
     "Lemon drop",
-    "Peppadew"
+    "Peppadew",
     "Rocoto pepper"
-]
+  ]
+}

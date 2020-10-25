@@ -1,4 +1,5 @@
-roman_god: [
+{
+  "roman_god": [
     "Apollo",
     "Bacchus",
     "Caelus",
@@ -24,4 +25,5 @@ roman_god: [
     "Veritas",
     "Vesta",
     "Vulcan"
-]
+  ]
+}

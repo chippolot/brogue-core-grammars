@@ -1,4 +1,5 @@
-mood: [
+{
+  "mood": [
     "abandoned",
     "absent minded",
     "abused",
@@ -764,4 +765,5 @@ mood: [
     "youthful",
     "zany",
     "zealous"
-]
+  ]
+}

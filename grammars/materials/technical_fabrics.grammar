@@ -1,4 +1,5 @@
-technical_fabric: [
+{
+  "technical_fabric": [
     "gore-tex",
     "iron-on",
     "kevlar",
@@ -10,4 +11,5 @@ technical_fabric: [
     "spandex",
     "vinyl",
     "polyester"
-]
+  ]
+}

@@ -1,4 +1,5 @@
-cat: [
+{
+  "cat": [
     "Abyssinian",
     "Aegean",
     "American Bobtail",
@@ -95,4 +96,5 @@ cat: [
     "Turkish Angora",
     "Turkish Van",
     "Ukrainian Levkoy"
-]
+  ]
+}

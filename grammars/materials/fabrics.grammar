@@ -1,4 +1,5 @@
-fabric: [
+{
+  "fabric": [
     "acrylic",
     "aertex",
     "airdura",
@@ -205,4 +206,5 @@ fabric: [
     "zephyr",
     "zibeline",
     "zorbeez"
-]
+  ]
+}

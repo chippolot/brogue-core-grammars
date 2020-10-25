@@ -1,4 +1,5 @@
-pastry: [
+{
+  "pastry": [
     "baklava",
     "bomboloni",
     "canelé",
@@ -19,4 +20,5 @@ pastry: [
     "stollen",
     "strudel",
     "toaster strudel"
-]
+  ]
+}

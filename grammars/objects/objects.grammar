@@ -1,4 +1,5 @@
-object: [
+{
+  "object": [
     "CD",
     "Christmas ornament",
     "acorn",
@@ -446,4 +447,5 @@ object: [
     "wristwatch",
     "zebra",
     "zipper"
-]
+  ]
+}

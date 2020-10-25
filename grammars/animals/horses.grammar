@@ -1,4 +1,5 @@
-horse: [
+{
+  "horse": [
     "American Albino",
     "Abaco Barb",
     "Abtenauer",
@@ -344,4 +345,5 @@ horse: [
     "Žemaitukas",
     "Zhemaichu",
     "Zweibrücker"
-]
+  ]
+}

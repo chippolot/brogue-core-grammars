@@ -1,4 +1,5 @@
-spice: [
+{
+  "spice": [
     "Aonori",
     "Ajwain",
     "Allspice",
@@ -87,7 +88,7 @@ spice: [
     "Yuzu",
     "Zedoary",
     "Zereshk",
-    "Zest"
+    "Zest",
     "Adjika",
     "Advieh",
     "Baharat",
@@ -137,4 +138,5 @@ spice: [
     "Vadouvan",
     "Yuzukosho",
     "Za'atar"
-]
+  ]
+}

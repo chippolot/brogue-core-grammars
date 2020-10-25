@@ -1,4 +1,5 @@
-infectious_disease: [
+{
+  "infectious_disease": [
     "chikungunya",
     "African tick-bite fever",
     "Astrakhan spotted fever",
@@ -114,4 +115,5 @@ infectious_disease: [
     "Venezuelan equine encephalitis",
     "babesiosis",
     "yellow fever"
-]
+  ]
+}

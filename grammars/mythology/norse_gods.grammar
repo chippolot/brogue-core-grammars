@@ -1,4 +1,5 @@
-norse_god: [
+{
+  "norse_god": [
     "Baldr",
     "Bragi",
     "Dellingr",
@@ -65,4 +66,5 @@ norse_god: [
     "Vár",
     "Vör",
     "Zisa"
-]
+  ]
+}

@@ -1,4 +1,5 @@
-plant: [
+{
+  "plant": [
     "Alder",
     "Black alder",
     "Common alder",
@@ -627,5 +628,6 @@ plant: [
     "Yellow fieldcress",
     "Yellowwood",
     "Yellow coneflower",
-    "Zedoary",
-]
+    "Zedoary"
+  ]
+}

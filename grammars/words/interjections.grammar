@@ -1,4 +1,5 @@
-interjection: [
+{
+  "interjection": [
     "aah",
     "ack",
     "agreed",
@@ -217,4 +218,5 @@ interjection: [
     "zounds",
     "zowie",
     "zzz"
-]
+  ]
+}

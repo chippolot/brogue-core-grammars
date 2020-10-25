@@ -1,4 +1,5 @@
-planet: [
+{
+  "planet": [
     "Mercury",
     "Venus",
     "Earth",
@@ -7,5 +8,6 @@ planet: [
     "Saturn",
     "Uranus",
     "Neptune",
-    "Pluto",
-]
+    "Pluto"
+  ]
+}

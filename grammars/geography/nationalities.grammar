@@ -1,4 +1,5 @@
-nationality: [
+{
+  "nationality": [
     "Afghan",
     "Albanian",
     "Algerian",
@@ -224,4 +225,5 @@ nationality: [
     "Yemeni",
     "Zambian",
     "Zimbabwean"
-]
+  ]
+}

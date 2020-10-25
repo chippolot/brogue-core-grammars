@@ -1,4 +1,5 @@
-wiki_color: [
+{
+  "wiki_color": [
     "Absolute Zero",
     "Acid",
     "Aero",
@@ -1015,5 +1016,6 @@ wiki_color: [
     "Yellow Sunshine",
     "YInMn Blue",
     "Zaffre",
-    "Zomp",
-]
+    "Zomp"
+  ]
+}

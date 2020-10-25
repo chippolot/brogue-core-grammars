@@ -1,4 +1,5 @@
-name_suffix: [
+{
+  "name_suffix": [
     "Jr",
     "Sr",
     "M.D",
@@ -37,5 +38,8 @@ name_suffix: [
     "THD",
     "VMD",
     "VP",
-    { '{roman_numeral}': 5 },
-]
+    {
+      "{roman_numeral}": 5
+    }
+  ]
+}

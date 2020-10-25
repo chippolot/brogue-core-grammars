@@ -1,4 +1,5 @@
-greek_god: [
+{
+  "greek_god": [
     "Aphrodite",
     "Apollo",
     "Ares",
@@ -30,4 +31,5 @@ greek_god: [
     "Hemera",
     "Nyx",
     "Nemesis"
-]
+  ]
+}

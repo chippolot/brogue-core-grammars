@@ -1,4 +1,5 @@
-personal_noun: [
+{
+  "personal_noun": [
     "abator",
     "abbreviator",
     "abdicator",
@@ -9306,4 +9307,5 @@ personal_noun: [
     "younker",
     "youth",
     "zealot"
-]
+  ]
+}

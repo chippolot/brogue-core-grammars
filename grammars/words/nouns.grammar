@@ -1,4 +1,5 @@
-noun: [
+{
+  "noun": [
     "Armour",
     "Barrymore",
     "Cabot",
@@ -992,4 +993,5 @@ noun: [
     "words",
     "workman",
     "youngster"
-]
+  ]
+}

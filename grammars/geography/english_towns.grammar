@@ -1,4 +1,5 @@
-english_town: [
+{
+  "english_town": [
     "Abingdon",
     "Accrington",
     "Acle",
@@ -934,7 +935,7 @@ english_town: [
     "Yarmouth",
     "Yate",
     "Yateley",
-    "Yeovil"
+    "Yeovil",
     "Bath",
     "Birmingham",
     "Bradford",
@@ -985,4 +986,5 @@ english_town: [
     "Winchester",
     "Worcester",
     "York"
-]
+  ]
+}

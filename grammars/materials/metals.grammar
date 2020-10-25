@@ -1,4 +1,5 @@
-metal: [
+{
+  "metal": [
     "aluminium",
     "chromium",
     "copper",
@@ -17,4 +18,5 @@ metal: [
     "bronze",
     "sterling",
     "pewter"
-]
+  ]
+}

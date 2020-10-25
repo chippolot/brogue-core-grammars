@@ -1,4 +1,5 @@
-condiment: [
+{
+  "condiment": [
     "Aioli",
     "Ajvar",
     "Amba",
@@ -98,4 +99,5 @@ condiment: [
     "XO sauce",
     "Za'atar",
     "Zacuscă"
-]
+  ]
+}

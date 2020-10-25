@@ -1,4 +1,5 @@
-apple_varietal: [
+{
+  "apple_varietal": [
     "Jonathan",
     "Ben Davis",
     "York",
@@ -999,4 +1000,5 @@ apple_varietal: [
     "Entz",
     "Red Calville",
     "Red Rambo"
-]
+  ]
+}

@@ -1,4 +1,5 @@
-building_material: [
+{
+  "building_material": [
     "plaster",
     "gypsum board",
     "cement",
@@ -44,4 +45,5 @@ building_material: [
     "clay",
     "paper",
     "gravel"
-]
+  ]
+}

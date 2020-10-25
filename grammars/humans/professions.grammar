@@ -1,4 +1,5 @@
-profession: [
+{
+  "profession": [
     "accountant",
     "actor",
     "actuary",
@@ -964,4 +965,5 @@ profession: [
     "writer",
     "yardmaster",
     "zoologist"
-]
+  ]
+}

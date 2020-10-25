@@ -1,4 +1,5 @@
-sausage: [
+{
+  "sausage": [
     "'nduja",
     "ahle wurst",
     "alheira",
@@ -202,4 +203,5 @@ sausage: [
     "ćevapčići",
     "češnovka",
     "švargl"
-]
+  ]
+}

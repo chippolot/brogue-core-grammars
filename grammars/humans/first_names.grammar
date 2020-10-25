@@ -1,4 +1,5 @@
-first_name: [
+{
+  "first_name": [
     "Kristina",
     "Paige",
     "Sherri",
@@ -9999,4 +10000,5 @@ first_name: [
     "Tracey",
     "Ray",
     "Norma"
-]
+  ]
+}

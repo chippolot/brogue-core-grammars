@@ -1,4 +1,5 @@
-tea: [
+{
+  "tea": [
     "88th Night Shincha Organic",
     "Adam's Peak White",
     "Amacha",
@@ -527,4 +528,5 @@ tea: [
     "Yunnan White Needle",
     "Zaloni Estate STGFOP",
     "Zhang Ping Shui Hsian Oolong"
-]
+  ]
+}

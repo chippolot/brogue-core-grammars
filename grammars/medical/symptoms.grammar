@@ -1,4 +1,5 @@
-symptom: [
+{
+  "symptom": [
     "backache",
     "blindness",
     "deafness",
@@ -543,4 +544,5 @@ symptom: [
     "communication difficulty",
     "obsessive interests",
     "repetitive behavior"
-]
+  ]
+}

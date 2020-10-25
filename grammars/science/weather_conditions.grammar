@@ -1,4 +1,5 @@
-weather_condition: [
+{
+  "weather_condition": [
     "Mostly Cloudy",
     "Mostly Cloudy with Haze",
     "Mostly Cloudy and Breezy",
@@ -262,4 +263,5 @@ weather_condition: [
     "Heavy Sand Storm",
     "Sand Storm in Vicinity",
     "Haze"
-]
+  ]
+}

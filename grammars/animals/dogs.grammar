@@ -1,4 +1,5 @@
-dog: [
+{
+  "dog": [
     "Affenpinscher",
     "Afghan Hound",
     "Aidi",
@@ -452,4 +453,5 @@ dog: [
     "Wirehaired Vizsla",
     "Yorkshire Terrier",
     "Šarplaninac"
-]
+  ]
+}

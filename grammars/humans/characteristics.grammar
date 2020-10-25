@@ -1,4 +1,5 @@
-characteristic: [
+{
+  "characteristic": [
     "able",
     "abnormal",
     "absent-minded",
@@ -392,4 +393,5 @@ characteristic: [
     "volcanic",
     "vulnerable",
     "zealous"
-]
+  ]
+}

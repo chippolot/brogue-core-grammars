@@ -1,4 +1,5 @@
-programming_language: [
+{
+  "programming_language": [
     "Assembly",
     "Batchfile",
     "C",
@@ -32,4 +33,5 @@ programming_language: [
     "TeX",
     "TypeScript",
     "Vim script"
-]
+  ]
+}

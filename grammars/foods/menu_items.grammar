@@ -1,4 +1,5 @@
-menu_item: [
+{
+  "menu_item": [
     "Coffee",
     "Olives",
     "Celery",
@@ -999,4 +1000,5 @@ menu_item: [
     "Linden Tea",
     "German fried potatoes",
     "Blackberry Brandy"
-]
+  ]
+}

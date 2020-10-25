@@ -1,4 +1,5 @@
-wrestling_move: [
+{
+  "wrestling_move": [
     "450° splash",
     "630° senton",
     "Aided brainbuster",
@@ -278,4 +279,5 @@ wrestling_move: [
     "Wheelbarrow hold top rope legdrop combination",
     "Wind-up punch",
     "Wishbone"
-]
+  ]
+}

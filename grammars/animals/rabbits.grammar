@@ -1,4 +1,5 @@
-rabbit: [
+{
+  "rabbit": [
     "American",
     "American Chinchilla",
     "American Fuzzy Lop",
@@ -48,4 +49,5 @@ rabbit: [
     "Standard Chinchilla",
     "Tan",
     "Thrianta"
-]
+  ]
+}

@@ -1,4 +1,5 @@
-us_state: [
+{
+  "us_state": [
     "Alabama",
     "Alaska",
     "American Samoa",
@@ -58,4 +59,5 @@ us_state: [
     "West Virginia",
     "Wisconsin",
     "Wyoming"
-]
+  ]
+}

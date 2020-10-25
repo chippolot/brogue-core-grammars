@@ -1,4 +1,5 @@
-clothing: [
+{
+  "clothing": [
     "baby grow",
     "ball gown",
     "belt",
@@ -89,4 +90,5 @@ clothing: [
     "waistcoat",
     "waterproof",
     "zip"
-]
+  ]
+}

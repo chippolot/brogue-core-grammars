@@ -1,4 +1,5 @@
-new_technology: [
+{
+  "new_technology": [
     "3D displays",
     "3D optical data storage",
     "3D printing",
@@ -529,4 +530,5 @@ new_technology: [
     "WiTricity",
     "X-ray machines",
     "zero-energy buildings"
-]
+  ]
+}

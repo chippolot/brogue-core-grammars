@@ -1,4 +1,5 @@
-body_part: [
+{
+  "body_part": [
     "ankle",
     "arm",
     "back",
@@ -40,4 +41,5 @@ body_part: [
     "upper arm",
     "waist",
     "wrist"
-]
+  ]
+}

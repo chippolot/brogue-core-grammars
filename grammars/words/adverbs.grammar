@@ -1,4 +1,5 @@
-adverb: [
+{
+  "adverb": [
     "abnormally",
     "absentmindedly",
     "accidentally",
@@ -325,4 +326,5 @@ adverb: [
     "yesterday",
     "yieldingly",
     "youthfully"
-]
+  ]
+}

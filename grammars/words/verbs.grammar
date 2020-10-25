@@ -1,4 +1,5 @@
-verb: [
+{
+  "verb": [
     "accept",
     "add",
     "admire",
@@ -632,4 +633,5 @@ verb: [
     "yell",
     "zip",
     "zoom"
-]
+  ]
+}

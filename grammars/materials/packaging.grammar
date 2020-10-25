@@ -1,4 +1,5 @@
-packaging: [
+{
+  "packaging": [
     "aluminium foil",
     "bopet",
     "bubble wrap",
@@ -26,4 +27,5 @@ packaging: [
     "shrinkwrap",
     "tinplate",
     "velostat"
-]
+  ]
+}

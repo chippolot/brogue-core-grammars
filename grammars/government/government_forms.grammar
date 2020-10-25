@@ -1,4 +1,5 @@
-government_form: [
+{
+  "government_form": [
     "autocracy",
     "democracy",
     "oligarchy",
@@ -22,4 +23,5 @@ government_form: [
     "commune",
     "empire",
     "colony"
-]
+  ]
+}

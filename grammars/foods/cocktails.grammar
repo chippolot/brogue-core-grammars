@@ -1,4 +1,5 @@
-cocktail: [
+{
+  "cocktail": [
     "Alexander",
     "Americano",
     "Angel Face",
@@ -76,4 +77,5 @@ cocktail: [
     "Vampiro",
     "Vesper",
     "Yellow Bird"
-]
+  ]
+}

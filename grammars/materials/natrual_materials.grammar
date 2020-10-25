@@ -1,4 +1,5 @@
-natural_material: [
+{
+  "natural_material": [
     "adobe",
     "bamboo",
     "cordwood",
@@ -9,4 +10,5 @@ natural_material: [
     "sawdust",
     "straw",
     "thatch"
-]
+  ]
+}

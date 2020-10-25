@@ -1,4 +1,5 @@
-sculpture_material: [
+{
+  "sculpture_material": [
     "alabaster",
     "barre granite",
     "clay",
@@ -43,4 +44,5 @@ sculpture_material: [
     "wax carving",
     "weathering steel",
     "westchester marble"
-]
+  ]
+}

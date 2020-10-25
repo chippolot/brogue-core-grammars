@@ -1,4 +1,5 @@
-appliance: [
+{
+  "appliance": [
     "air conditioner",
     "air fryer",
     "air ioniser",
@@ -106,4 +107,5 @@ appliance: [
     "wet grinder",
     "window fan",
     "wood-fired oven"
-]
+  ]
+}

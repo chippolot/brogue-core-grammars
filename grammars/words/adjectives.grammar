@@ -1,4 +1,5 @@
-adjective: [
+{
+  "adjective": [
     "Aristotelian",
     "Arthurian",
     "Bohemian",
@@ -960,4 +961,5 @@ adjective: [
     "worst-case",
     "worsted",
     "worthless"
-]
+  ]
+}

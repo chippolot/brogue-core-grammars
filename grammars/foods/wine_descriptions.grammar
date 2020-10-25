@@ -1,4 +1,5 @@
-wine_description: [
+{
+  "wine_description": [
     "acidic",
     "alcoholic",
     "angular",
@@ -102,4 +103,5 @@ wine_description: [
     "vegetal",
     "velvety",
     "vinegar"
-]
+  ]
+}

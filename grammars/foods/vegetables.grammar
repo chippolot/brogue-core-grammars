@@ -1,4 +1,5 @@
-vegetable: [
+{
+  "vegetable": [
     "acorn squash",
     "alfalfa sprout",
     "amaranth",
@@ -119,4 +120,5 @@ vegetable: [
     "white radish",
     "yam",
     "zucchini"
-]
+  ]
+}

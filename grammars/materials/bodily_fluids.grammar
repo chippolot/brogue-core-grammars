@@ -1,4 +1,5 @@
-bodily_fluid: [
+{
+  "bodily_fluid": [
     "amniotic fluid",
     "aqueous humour",
     "vitreous humour",
@@ -28,4 +29,5 @@ bodily_fluid: [
     "sweat",
     "tears",
     "vomit"
-]
+  ]
+}
