@@ -1,15 +1,15 @@
 {
-    "name": "lilt-core-grammars",
+    "name": "brogue-core-grammars",
     "version": "0.0.1",
-    "description": "Core grammar files for use with Lilt.",
+    "description": "Core grammar files for use with brogue.",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/chippolot/lilt-core-grammars.git"
+        "url": "git+https://github.com/chippolot/brogue-core-grammars.git"
     },
     "author": "Ben Smith",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/chippolot/lilt-core-grammars/issues"
+        "url": "https://github.com/chippolot/brogue-core-grammars/issues"
     },
-    "homepage": "https://github.com/chippolot/lilt-core-grammars#readme"
+    "homepage": "https://github.com/chippolot/brogue-core-grammars#readme"
 }
