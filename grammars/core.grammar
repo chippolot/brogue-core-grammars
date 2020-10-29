@@ -35,6 +35,7 @@
     'humans/body_parts.grammar',
     'humans/characteristics.grammar',
     'humans/first_names.grammar',
+    'humans/languages.grammar',
     'humans/last_names.grammar',
     'humans/moods.grammar',
     'humans/name_prefixes.grammar',

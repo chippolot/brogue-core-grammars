@@ -1,6 +1,6 @@
 {
     "name": "brogue-core-grammars",
-    "version": "0.0.2",
+    "version": "0.1.0",
     "description": "Core grammar files for use with brogue.",
     "repository": {
         "type": "git",
